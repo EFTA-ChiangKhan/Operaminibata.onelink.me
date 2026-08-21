@@ -1,6 +1,9 @@
 # Operaminibata.onelink.me
 https://maps.app.goo.gl/88wrSwoWLDBeJUcF7?g_st=ac
 # Dealing with special characters in branch and tag names
+
+<img width="1280" height="1233" alt="9712" src="https://github.com/user-attachments/assets/8fc8248b-c28c-4557-ac61-0c0873565585" />
+
 Opera Mini is a mobile web browser made by Opera. It was primarily designed for the Java ME platform, as a low-end sibling for Opera Mobile, but as of February 2026 only the Android port is still under active development. A 2021 build of Opera Mini 4.4 for the MAUI Runtime Environment is included with current feature phones manufactured by HMD Global. It had previously been developed for iOS, Windows 10 Mobile, Windows Phone 8.1, BlackBerry, Symbian, and Bada.
 
 Opera Mini requests web pages through Opera Software's compression proxy server. The compression server processes and compresses the requested web pages before sending them to the mobile phone. The compression ratio is 90%, and the transfer speed is increased by two to three times as a result. The pre-processing increases compatibility with web pages not designed for mobile phones. However, interactive sites which depend on the device's processing JavaScript do not work properly.
