@@ -134,6 +134,163 @@ The overall share of the Opera family in the mobile Web browser market was about
 <p id="mw1Q"></p>
 <!-- /wp:paragraph -->
 
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_current_red_Asia_Australia.svg/60px-Ambox_current_red_Asia_Australia.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>This section needs to be&nbsp;<strong>updated</strong>.&nbsp;Please help update this article to reflect recent events or newly available information.&nbsp;<em>(June 2023)</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p id="mwAjY">The following devices were supplied pre-installed with Opera Mini&nbsp;as of August&nbsp;2007. Some listed devices only included Opera Mini when bought from certain network operators.<sup class="mw-ref reference"><a href="https://en.wikipedia.org/wiki/Opera_Mini#cite_note-Goldman-70">[70]</a></sup></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul id="mwAj0" class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://en.wikipedia.org/wiki/Motorola">Motorola</a> V980, E2, L7, <a href="https://en.wikipedia.org/wiki/Motorola_i1">i1</a><sup class="mw-ref reference"><a href="https://en.wikipedia.org/wiki/Opera_Mini#cite_note-71">[71]</a></sup></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikipedia.org/wiki/Nokia">Nokia</a> <a href="https://en.wikipedia.org/wiki/Nokia_Asha_series">Nokia Asha series</a>, <a href="https://en.wikipedia.org/wiki/Nokia_2610">2610</a>, <a href="https://en.wikipedia.org/wiki/Nokia_2700_classic">2700 classic</a>, <a href="https://en.wikipedia.org/wiki/Nokia_2730_classic">2730 classic</a>, <a href="https://en.wikipedia.org/wiki/Nokia_3110_classic">3110 classic</a>, <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Nokia_3120_classic">3120 classic</a>, <a href="https://en.wikipedia.org/wiki/Nokia_3500_classic">3500 classic</a>, <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Nokia_3600/3650">3600</a>, <a href="https://en.wikipedia.org/wiki/Nokia_3600_slide">3600 slide</a>, 3710 fold, <a href="https://en.wikipedia.org/wiki/Nokia_3720_classic">3720 classic</a>, 5000, <a href="https://en.wikipedia.org/wiki/Nokia_5070">5070</a>, <a href="https://en.wikipedia.org/wiki/Nokia_5130">5130</a>, <a href="https://en.wikipedia.org/wiki/Nokia_5230">5230</a>, <a href="https://en.wikipedia.org/wiki/Nokia_5310">5310</a>, <a href="https://en.wikipedia.org/wiki/Nokia_5500_Sport">5500 Sport</a>, <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Nokia_5610">5610</a>, 6080, <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Nokia_6085">6085</a>, <a href="https://en.wikipedia.org/wiki/Nokia_6103">6103</a>, <a href="https://en.wikipedia.org/wiki/Nokia_6131">6131</a>, <a href="https://en.wikipedia.org/wiki/Nokia_6233">6233</a>, <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Nokia_6288">6288</a>, <a href="https://en.wikipedia.org/wiki/Nokia_6300">6300</a>,<sup class="mw-ref reference"><a href="https://en.wikipedia.org/wiki/Opera_Mini#cite_note-72">[72]</a></sup> <a href="https://en.wikipedia.org/wiki/Nokia_6303_classic">6303 classic</a>, <a href="https://en.wikipedia.org/wiki/Nokia_6600_slide">6600 slide</a>, 7373, <a href="https://en.wikipedia.org/wiki/Nokia_8800">8800 <em>Arte</em></a>, <a href="https://en.wikipedia.org/wiki/Nokia_C2-01">Nokia C2-01</a>, <a href="https://en.wikipedia.org/wiki/Nokia_C3-00">Nokia C3</a>, <a href="https://en.wikipedia.org/wiki/Nokia_E65">E65</a>, <a href="https://en.wikipedia.org/wiki/Nokia_N71">N71</a>, <a href="https://en.wikipedia.org/wiki/Nokia_N73">N73</a>, <a href="https://en.wikipedia.org/wiki/Nokia_N95">N95</a> and other <a href="https://en.wikipedia.org/wiki/Series_40">S40</a> and <a href="https://en.wikipedia.org/wiki/S60_(software_platform)">S60</a> phones.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikipedia.org/wiki/Microsoft">Microsoft</a> and <a href="https://en.wikipedia.org/wiki/HMD_Global">HMD</a> Nokia/HMD phones with a preinstalled browser and running <a href="https://en.wikipedia.org/wiki/Series_30+">s30+</a> all run on the Opera Mini Browser,<sup class="mw-ref reference"><a href="https://en.wikipedia.org/wiki/Opera_Mini#cite_note-73">[73]</a></sup> along with <a href="https://en.wikipedia.org/wiki/Nokia_3310_(2017)">3310 (2017)</a> that run Smart Feature OS for 3G version.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="mw-redirect" href="https://en.wikipedia.org/wiki/Sony_Ericsson">Sony Ericsson</a> K310i, K530i, <a href="https://en.wikipedia.org/wiki/Sony_Ericsson_K550">K550</a>, <a href="https://en.wikipedia.org/wiki/Sony_Ericsson_W200">W200i</a>, <a href="https://en.wikipedia.org/wiki/Sony_Ericsson_W205">W205</a>, <a href="https://en.wikipedia.org/wiki/Sony_Ericsson_W760">W760i</a>, <a href="https://en.wikipedia.org/wiki/Sony_Ericsson_W910i">W910i</a>, Z530i, Z550i, Z780i</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikipedia.org/wiki/Samsung">Samsung</a> X160, E570, E420, F480, X510, X650, E900, E250, U700, ZV60, D900i</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikipedia.org/wiki/LG">LG</a> K880, KU250, KE970, and KU311</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikipedia.org/wiki/SAGEM">SAGEM</a> My411x and P9521</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikipedia.org/wiki/BenQ-Siemens_EL71">BenQ-Siemens EL71</a> and EF81</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikipedia.org/wiki/BenQ">BenQ</a> E71 fight</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="mw-redirect" href="https://en.wikipedia.org/wiki/Orange_(telecommunications)">Orange</a> Rio (<a href="https://en.wikipedia.org/wiki/ZTE">ZTE</a>-G X991)</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p id="mwAoo">While not officially supported on&nbsp;<a href="https://en.wikipedia.org/wiki/ChromeOS">ChromeOS</a>, Vlad Filippov published a guide that teaches how to run Opera Mini inside the Chromium browser.<sup class="mw-ref reference"><a href="https://en.wikipedia.org/wiki/Opera_Mini#cite_note-74">[74]</a></sup></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="Release_compatibility">Release compatibility</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://en.wikipedia.org/wiki/Operating_system">Operating system</a>Latest versionYearAndroid<br />(including<br /><a href="https://github.com/androidarmv6/android" class="external text">Android for ARMv6</a>)6.0 and later<a href="https://ftp.opera.com/ftp/pub/opera/android/mini/99.4.2254.1608/" class="external text">99.4.2254.1608&nbsp;(ARMv7)</a>20265.0–5.1<a href="https://ftp.opera.com/ftp/pub/opera/android/mini/90.1.2254.77167/" class="external text">90.1.2254.77167 (ARMv7)</a>20254.2–4.4<a href="https://ftp.opera.com/ftp/pub/opera/android/mini/60.0.2254.59405/" class="external text">60.0.2254.59405 (ARMv7)</a>2021<a href="https://ftp.opera.com/ftp/pub/opera/android/mini/53.1.2254.55490/" class="external text">53.1.2254.55490 (ARMv5, ARMv6)</a>20214.1<a href="https://ftp.opera.com/ftp/pub/opera/android/mini/46.1.2254.55193/" class="external text">46.1.2254.55193</a>20202.3–4.0<a href="https://ftp.opera.com/ftp/pub/opera/android/mini/oldsdk/20.0.2254.110284/" class="external text">20.0.2254.110284</a>20161.5–2.2<a href="https://ftp.opera.com/ftp/pub/opera/android/mini/7.6.4/" class="external text">7.6.4</a>2015iOS16.0.142018<sup class="mw-ref reference"><a href="https://en.wikipedia.org/wiki/Opera_Mini#cite_note-75">[75]</a></sup>Windows Phone 8.1 and later9.1.0.2322016<sup class="mw-ref reference"><a href="https://en.wikipedia.org/wiki/Opera_Mini#cite_note-76">[76]</a></sup>Java MEMIDP 2.0 and later8.0.12014<sup class="mw-ref reference"><a href="https://en.wikipedia.org/wiki/Opera_Mini#cite_note-77">[77]</a></sup>4.52013<sup class="mw-ref reference"><a href="https://en.wikipedia.org/wiki/Opera_Mini#cite_note-78">[78]</a></sup>MIDP 1.x3.22010SymbianS60v2 and later7.12013<sup class="mw-ref reference"><a href="https://en.wikipedia.org/wiki/Opera_Mini#cite_note-79">[79]</a></sup>Bada6.52012<sup class="mw-ref reference"><a href="https://en.wikipedia.org/wiki/Opera_Mini#cite_note-80">[80]</a></sup>Windows Mobile 6, 5 and 20035.12010<sup class="mw-ref reference"><a href="https://en.wikipedia.org/wiki/Opera_Mini#cite_note-81">[81]</a></sup>MAUI Runtime Environment4.42011<sup class="mw-ref reference"><a href="https://en.wikipedia.org/wiki/Opera_Mini#cite_note-82">[82]</a></sup></p>
+<!-- /wp:paragraph -->
+See also
+Opera (web browser)
+Opera Mobile
+UC Browser, a server-based compressing browsing system
+Bolt (web browser), a discontinued server-based compressing browsing system
+History of the web browser
+List of web browsers
+References
+ "Opera Mini: Fast Web Browser - Apps on Google Play". Retrieved 13 July 2026.
+ Lextrait, Vincent (January 2010). "The Programming Languages Beacon, v10.0". Retrieved 14 March 2010.
+ "Opera Browsers, Modes & Engines". dev.opera.com. 2 June 2015. Archived from the original on 14 June 2015.
+ Bovens, Andreas (2 June 2015). "Opera Browsers, Modes & Engines". Dev.Opera. Retrieved 13 August 2017.
+ Solsvik, Terje (24 February 2014). "Opera browser to be pre-installed on Nokia's X phones". Reuters. Archived from the original on 13 January 2016. Retrieved 18 April 2014.
+ "Samsung delivers a faster web on non-smartphones" (Press release). Oslo, Norway: Opera Software. 23 February 2012. Retrieved 18 April 2014.
+ Summers, Nick (8 May 2013). "Opera Software partners with Indian mobile OEMs to get its Opera Mini browser pre-installed on Android devices". TheNextWeb. Retrieved 18 April 2014.
+ Shankland, Stephen (25 August 2011). "Opera finances improve despite fierce competition". CNET. Retrieved 16 January 2012.
+ "Opera Mini is going multilingual this Republic Day". 26 January 2016.
+ Lardinois, Frederic (30 April 2012). "Opera Mini Now Has 169 Million Users, 56% Of Them Only Use The Mobile Web". TechCrunch. Archived from the original on 2 February 2025. Retrieved 2 February 2025.
+ "State of the Mobile Web: India on top". Opera Newsroom. 31 May 2012. Archived from the original on 6 July 2022. Retrieved 2 February 2025.
+ Williams, Owen (24 December 2015). "The browser with 300 million users that's breaking your site". TNW | Dd.
+ "Affiliated Organization of Firefox and Mozilla" (PDF). Mozilla Japan. 2006. Retrieved 24 October 2007.
+ Goldman, Daniel (3 May 2006). "Opera Mini 2.0 Released". Opera Watch. Archived from the original on 21 July 2011. Retrieved 21 December 2007.
+ "Have WAP but want WEB? Introducing Opera Mini for mobile phones" (Press release). Opera Software. 10 August 2005. Archived from the original on 18 June 2006. Retrieved 5 December 2007.
+ "Mobile comfort in the cold: Opera Mini beta now available free in the Nordics" (Press release). Opera Software. 10 November 2005. Archived from the original on 9 June 2008. Retrieved 2 January 2008.
+ "The full Internet for all mobile phones: Opera Mini launched in India" (Press release). Opera Software. 10 November 2005. Archived from the original on 6 October 2008. Retrieved 2 January 2008.
+ Gohring, Nancy (25 January 2006). "Opera to launch Mini worldwide". PC World. IDG. Archived from the original on 14 November 2022. Retrieved 14 November 2022.
+ "Mini Gets Mighty: Introducing Opera Mini 2.0 for your mobile phone" (Press release). Opera Software. 3 May 2006. Archived from the original on 6 October 2008. Retrieved 21 December 2007.
+ Goldman, Daniel (1 November 2006). "Limited testing of Opera Mini 3 beta". Opera Watch. Archived from the original on 21 July 2011. Retrieved 21 December 2007.
+ Spilling, Marianne (22 November 2006). "Opera Mini 3.0 Beta 2". Opera Software. Retrieved 21 December 2007.
+ "Opera Mini drives social networking on mobile phones" (Press release). Opera Software. 28 November 2006. Archived from the original on 13 May 2008. Retrieved 21 December 2007.
+ Schön, Johan (7 November 2007). "The power of the Web with Opera Mini 4". My.Opera.com. Retrieved 24 December 2007.
+ "Opera Mini Features". Opera Software. February 2009. Archived from the original on 27 February 2009. Retrieved 13 July 2014.
+ Calore, Michael "Opera 4 Beta Released Archived 30 June 2007 at the Wayback Machine", Wired News, 19 June 2007
+ Heater, Brian "Opera Mini 4 Goes Live Archived 28 August 2008 at the Wayback Machine", AppScout (Ziff Davis), 7 November 2007
+ "Opera Mini FAQ". Opera Software. What are the differences between the "Basic (MIDP 1)" and the "Advanced (MIDP 2)" versions?. Archived from the original on 19 December 2007.
+ "Generic Advanced MIDP 2". Download Opera Mini. Opera Software. Archived from the original on 11 October 2007. Retrieved 19 December 2007.
+ "Opera Software chooses Google as search partner". Reuters. 28 December 2005. Archived from the original on 6 September 2007. Retrieved 11 October 2007.
+ "Opera Names Yahoo! Exclusive Global Partner for Mobile Search" (Press release). Yahoo!. Archived from the original on 13 October 2007. Retrieved 11 October 2007.
+ "The story behind Opera Mini on Google Android". Archived from the original on 11 April 2008. Retrieved 4 January 2009.
+ "Global mobile-browser champion enters next generation". Archived from the original on 9 March 2012. Retrieved 14 November 2009.
+ "Opera Mini国际版屏蔽国内用户" (in Chinese). Solidot. 21 November 2009. Retrieved 25 November 2009.
+ Millward, Steven (22 November 2009). "Opera accused of censorship, betrayal by Chinese users". CNet Asia. Archived from the original on 3 November 2013.
+ "Mobile Phone Reviews » indonesia". Archived from the original on 29 March 2010. Retrieved 15 November 2010.
+ "Opera Mini Submitted to App Store, Complete with Passive Aggressive "Countup" Clock". Gizmodo. 23 March 2010.
+ "Opera Mini Approved for App Store". Archived from the original on 15 October 2010. Retrieved 13 April 2010.
+ "Opera Mini Beta Subscriptions Now Open For Windows Phone". TechTree.com.
+ "Opera Mini beta for Windows Phone now available for anyone to test". blog.gsmarena.com. 9 September 2014.
+ Mathews, Lee (9 September 2015). "Opera Mini now has two compression modes: high and extreme". Geek.com. Ziff Davis. Archived from the original on 13 August 2017. Retrieved 13 August 2017.
+ "Developer case study: Managing Java fragmentation, Opera Software's Java ME browser client: About Opera Mini". Sony Ericsson. 23 June 2006. Archived from the original on 4 August 2011. Retrieved 19 December 2007.
+ "Opera 3Q05 Results" (PDF). 21 November 2005. p. 16. Archived from the original (PDF) on 1 December 2005. Retrieved 19 December 2007.
+ Duncan, Geoff (24 January 2006). "Opera Mini Officially Brings Web to Mobiles". Digital Trends News. Retrieved 18 October 2007.
+ Lawson, Bruce (26 June 2014). "Opera Mini 8 for iOS released". Dev.Opera. Opera Software.
+ Ghoshal, Abhimanyu (8 September 2015). "Opera Mini browser (Android) has a new data saving mode". The Next Web. Archived from the original on 13 August 2017. Retrieved 13 August 2017.
+ Mihir Patkar (11 September 2015). "Is Opera Mini's Data Compression Good Enough to Switch?". Makeuseof.com. Retrieved 18 March 2017.
+ FAQ, What is the difference between ‘http connection' and ‘socket connection'?.
+ Lawson, Bruce (16 March 2015). "Opera Mini server upgrade". Dev.Opera. Retrieved 12 May 2017.
+ Storey, David (31 August 2007). "Evolving the Internet on your phone: Designing web sites with Opera Mini 4 in mind". Opera Software. Archived from the original on 10 August 2011. Retrieved 16 January 2008.
+ "Opera Mini 4 beta out". June 2007. Archived from the original on 10 October 2011. Retrieved 22 December 2007.
+ "Opera Mini Simulator". Opera.com. Opera Software. Archived from the original on 9 February 2010. Retrieved 22 December 2007.
+ "Content folding". Opera Mini Features. Opera Software. Retrieved 4 January 2008.
+ "Opera's Small-Screen Rendering". Opera Software. Archived from the original on 4 December 2007. Retrieved 20 December 2007.
+ "Dev.Opera — Opera Mini: Web Content Authoring Guidelines". dev.opera.com. 20 November 2024.
+ Mills, Chris (25 October 2007). "JavaScript support in Opera Mini 4 (deprecated article)". Opera Software. Archived from the original on 29 July 2011. Retrieved 29 December 2007.
+ "HTML event types". Document Object Model (DOM) Level 2 Events Specification. 13 November 2000. Retrieved 29 December 2007.
+ "Designing With Opera Mini in Mind". Opera Software. 13 November 2006. Archived from the original on 4 August 2011. Retrieved 31 December 2007.
+ "Opera Mini FAQ". Opera Software. What is the purpose of the screen where you need to press keys until the indicator is full?. Archived from the original on 19 December 2007.
+ "Qualys SSL Labs - Projects / SSL Client Test".
+ McGee, Brandon (14 October 2007). "Recommendation for Mobile Banking Vendors & An Update on Opera Browsers". Retrieved 8 August 2017.
+ FAQ, How does encryption work in Opera Mini?.
+ "Opera Mini for Android | Ad blocker, File sharing, Data savings | Opera".
+ "Opera Mini Simulator". Opera Mini Features. Opera Software. Archived from the original on 9 February 2010. Retrieved 4 January 2008.
+ Goldman, Daniel (15 August 2007). "How to get higher quality images with Opera Mini?". Opera Watch. Archived from the original on 13 January 2008. Retrieved 4 January 2008.
+ "Opera Mini 16 for Android". Opera forums. 4 May 2016.
+ "Revamping Opera Mini for IOS". 5 September 2017.
+ "Browser Market Share Worldwide". StatCounter. July 2017. Retrieved 1 July 2017.
+ "Opera slashes power usage with new server parks". Opera b2b. Oslo, Norway: Opera Software. 24 June 2010.
+ "Serving up more Opera Mini in Europe: Opera opens new data center in Poland". Opera b2b. Oslo, Norway: Opera Software. 30 June 2009.
+ Goldman, Daniel (27 August 2007). "Phones with Opera Mini pre-installed, distribution partners, and more". Opera Watch. Archived from the original on 17 July 2011. Retrieved 5 February 2008.
+ "Motorola and Sprint Announce World's First Push-To-Talk Android-Powered Smartphone – Motorola i1" (Press release). Motorola. 22 March 2010. Retrieved 22 March 2010.
+ "Opera Mini Web browser pre-installed with Nokia 6300" (Press release). Opera Software. 14 December 2006. Retrieved 1 December 2013.
+ "Nokia Corporation". www.nokia.com. Retrieved 24 September 2023.
+ Filippov, Vlad (14 October 2014). "Opera Mini on your Chromebook for fun and bandwidth". dev.opera.com.
+ "Opera Mini web browser on the App Store on iTunes". iTunes. 16 October 2018. Archived from the original on 19 April 2011. Retrieved 16 October 2018.
+ "Opera Mini - Windows Apps on Microsoft Store". Microsoft. 16 June 2016. Retrieved 5 September 2016.
+ "Got Java? Opera Mini update for Java phones". 8 July 2014. Retrieved 20 May 2023.
+ "Opera keeps on bringing first-class browsing to basic phones". 5 June 2013. Retrieved 21 May 2023.
+ "New Opera Mini 7.1 release for Symbian/S60". 22 January 2013. Retrieved 20 May 2023.
+ "Opera Mini browser lands on Bada". 4 May 2012. Retrieved 24 June 2023.[dead link]
+ "Better browsing on Windows Mobile". 9 September 2010. Retrieved 21 May 2023.
+ Ionut Arghire (2 December 2011). "Opera Mini Arrives on MediaTek's Runtime Environment (MRE)". Retrieved 16 June 2023.
+
+
 ## About branch and tag names
 
 Most repositories use simple branch names, such as `main` or `update-icons`. Tag names also usually follow a basic format, such as a version number like `v1.2.3`. Both branch names and tag names may also use the path separator (`/`) for structure, for example `area/item` or `level-1/level-2/level-3`. Other than some exceptions &mdash; such as not starting or ending a name with a slash, or having consecutive slashes in the name &mdash; Git has very few restrictions on what characters may be used in branch and tag names. For more information, see [git-check-ref-format](https://git-scm.com/docs/git-check-ref-format) in the Git documentation.
